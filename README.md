@@ -1,5 +1,7 @@
 # Some loose links and stuff
 
+https://ckan.org/blog/greece-national-data-portal-ckan
+
 https://marimo.io/
 
 https://www.bertelsmann-stiftung.de/de/unsere-projekte/daten-fuer-die-gesellschaft/projektnachrichten/erfolgreicher-transfer-des-musterdatenkatalogs-fuer-kommunen-zu-govdata
